@@ -1,0 +1,18 @@
+Moderator: Thanks so much for making time today. I'd love to understand how you manage your email workflow.
+Participant: Sure. I always check my emails first thing in the morning, before I do anything else. I try to respond within an hour to anything urgent.
+Moderator: And how did that actually play out last week?
+Participant: Well, I actually didn't check emails until about noon on Monday. I got completely distracted by Slack and then fell into a rabbit hole of Jira tickets.
+Moderator: That's interesting. What about calendar management — how do you approach that?
+Participant: I'm really good about blocking focus time. I never let meetings pile up back to back. I make a point of protecting at least two hours of deep work every day.
+Moderator: What happened in practice last week specifically?
+Participant: Last week I had seven back-to-back meetings on Wednesday. I couldn't get any deep work done at all. It was completely useless.
+Moderator: How do you handle notifications during the day?
+Participant: I typically turn off all notifications during deep work sessions. I make it a habit. I believe it's the only way to actually get into flow.
+Participant: But I found myself checking Slack every ten minutes yesterday. It's really hard to resist when there's a live incident happening.
+Moderator: Makes sense. What about documentation — do you write things up after meetings?
+Participant: I always write meeting notes straight away. I never let it slip to the next day. Otherwise I forget everything.
+Moderator: And in practice?
+Participant: I actually skipped notes for three meetings last week. I kept telling myself I'd do it later and then I just didn't.
+Moderator: Let's talk about code reviews. How do you approach those?
+Participant: I try to review PRs within 24 hours. I make sure I'm not a blocker for the team.
+Participant: Last week I had a PR sitting for four days without me looking at it. The author had to chase me twice.
