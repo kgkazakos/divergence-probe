@@ -189,7 +189,7 @@ The LLM layer is reference scaffolding — excluded from CI and never required f
 |-----------|---------------------|----------------------------------------|
 | OpenAI    | `gpt-4o-mini`       | `pip install divergence-probe[openai]`    |
 | Anthropic | `claude-sonnet-4-6` | `pip install divergence-probe[anthropic]` |
-| Gemini    | `gemini-2.0-flash`  | `pip install divergence-probe[gemini]`    |
+| Gemini    | `gemini-3.6-flash`  | `pip install divergence-probe[gemini]`    |
 
 Set your API key in the environment before use:
 

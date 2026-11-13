@@ -106,7 +106,7 @@ def enrich_report(
     _DEFAULTS = {
         "openai": "gpt-4o-mini",
         "anthropic": "claude-sonnet-4-6",
-        "gemini": "gemini-2.0-flash",
+        "gemini": "gemini-3.6-flash",
     }
 
     if backend not in _DEFAULTS:
